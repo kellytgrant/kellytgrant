@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello visitor! I am Kelly - current student and future astronomer. Ad astra per scientia!
 
 <!--
 **kellytgrant/kellytgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
